@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">Cloud & DevOps Engineer</h3>
 
-- 📝 I regularly write articles on [linuxpedi.com](linuxpedi.com)
+- 📝 I regularly write articles on **linuxpedi.com**
 
 - 📫 How to reach me **me@sametkum.com**
 
