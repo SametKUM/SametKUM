@@ -23,7 +23,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/> </a> 
 <a href="https://www.terraform.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/> </a> 
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="50" height="50"/> </a> 
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="50" height="50"/> </a> 
+<a href="https://www.nginx.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="50" height="50"/> </a> 
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="50" height="50"/> </a> </p>
 <p align="left"> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="50" height="50"/> </a>
