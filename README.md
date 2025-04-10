@@ -22,7 +22,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="50" height="50"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/> </a> 
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="terraform" width="50" height="50"/> </a> 
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="50" height="50"/> </a> 
+<a href="https://github.com/ansible/ansible" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="50" height="50"/> </a> 
 <a href="https://www.nginx.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="50" height="50"/> </a> 
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="50" height="50"/> </a> </p>
 <p align="left"> 
